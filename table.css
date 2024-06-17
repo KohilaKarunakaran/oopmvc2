@@ -1,0 +1,23 @@
+table {
+    margin-left: 350px;
+    width: 50%;
+    border-collapse: collapse;
+}
+th{
+    background-color: rgb(0, 242, 255);
+
+}
+tr {
+    background-color: rgb(238, 231, 231);
+}
+h2 {
+    text-align: center;
+}
+a {
+    padding-left: 5px;
+    padding-right:5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: white;
+    background-color: green;
+}
